@@ -1,8 +1,9 @@
 # tailwindcss-login-page
 A tailwindcss login template
 
-#feature 
-Login 
+<h2> feature </h2>
+
+Login  
 
 Register
 
