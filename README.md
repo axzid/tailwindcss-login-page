@@ -3,6 +3,9 @@ A tailwindcss login template
 
 #feature 
 Login 
+
 Register
+
 Forgot Password
+
 
